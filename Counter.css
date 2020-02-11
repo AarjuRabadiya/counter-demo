@@ -1,0 +1,57 @@
+body {
+  background-color: #6d72ff;
+  height: 100vh;
+}
+.ad {
+  padding-top: 230px;
+  padding-left: 430px;
+  height: 100%;
+  padding-right: 430px;
+  padding-bottom: 230px;
+}
+.design {
+  margin-right: 80px;
+  margin-left: 80px;
+  border-radius: 50px;
+  background-color: #8a8eff;
+  height: 90px;
+}
+a {
+  text-decoration: none;
+}
+.Leftside {
+  text-decoration: none;
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  padding-right: 45px;
+  padding-left: 40px;
+}
+.Rightside {
+  text-decoration: none;
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  padding-left: 50px;
+}
+.addval {
+  border-radius: 180px;
+  width: 25%;
+  height: 82px;
+  text-align: center;
+  font-size: 40px;
+  color: #6d72ff;
+  border-color: transparent;
+}
+
+button{
+    background-color: white;
+    margin-top: 20px;
+    padding: 9px 50px;
+    color: #6d72ff;
+    margin-left: 35%;
+    border-radius: 50px;
+    border-color: white;
+    border-color: transparent;
+    font-size: 20px;
+}
